@@ -16,4 +16,3 @@ print(name)
 
 del names[0:11:2]
 print(names)
-
