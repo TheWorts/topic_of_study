@@ -18,4 +18,3 @@ nature = 'beautiful'
 #space
 space = 'beautiful'
 planets = 8
-
