@@ -1,9 +1,12 @@
- 
-my_list = []
 
-for num in range(1):
-    x = str(input('выберите страну: '))
-    g = str(input('выберите город:'))
-    my_list.append(x)
-    my_list.append(g)
-print(my_list)
+b = 'Ваши действие:
+1. Добавить новый город
+2. Отобразить список городов
+3. Заменить город
+4. Удалить город
+5. Выход'
+
+while = True:
+    print()
+    print(b)
+    a = input(
